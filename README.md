@@ -1,2 +1,3 @@
 # MEZUN-YET
-mezuniyet
+## Projemin fikri:
+> bilgilendirici bir web sitesi veya discord botu 
